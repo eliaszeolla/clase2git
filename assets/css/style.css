@@ -1,0 +1,59 @@
+*{
+margin: 0;
+padding: 0;
+}
+/*inincio*/
+table{
+    border:solid 1px;
+    border-collapse: collapse;
+    margin: 10px;
+    padding: 10px;
+}
+th,td{
+    border:solid 1px ;
+    padding: 10px;
+}
+img{
+    width: 300px;
+}
+
+/*contactos*/
+form {
+    width: 50%;
+   
+}
+textarea{
+    width: 250px;
+    height: 100px;
+}
+
+.fondoTurno{
+    background-color: blueviolet;
+}
+
+.colorTurno{
+    color: white;
+}
+
+.contenedorParrafo{
+    color: blue;
+}
+
+.parrafocolorRoja{
+    color: rgb(0, 253, 97);
+    margin: 10px;
+
+}
+
+.listaRoja{
+    color: aqua;
+}
+
+.colorTitulo{
+    color: blue;
+}
+
+.card{
+    color: aqua;
+    padding: 10px;
+}
